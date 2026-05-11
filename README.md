@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sam  
-🚀 **CS Student @ University of Waterloo** | 💻 **Aspiring Software Developer**  
+🚀 **CS Student @ University of Waterloo** | 💻 **Software Engineer**  
   
 📫 **Reach me at:** [smeydans@uwaterloo.ca](mailto:smeydans@uwaterloo.ca)
 ## 🔗 Let's Connect!  
