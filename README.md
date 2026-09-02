@@ -1,5 +1,5 @@
 # Hi, I'm Sam  
-**CS Student @ University of Waterloo** | **Software Engineer at [Tenstorrent](https://tenstorrent.com/en)**  
+**CS Student @ University of Waterloo**
   
 📫 **Reach me at:** [smeydans@uwaterloo.ca](mailto:smeydans@uwaterloo.ca)
 
